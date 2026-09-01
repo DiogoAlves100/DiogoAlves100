@@ -47,7 +47,7 @@ Sou estudante de **Engenharia de Software** pela universidade UCSAL e **Técnico
 
 <br/>
 
-### 🐍 Minhas Contribuições
+
 
 <div align="center">
   <picture>
