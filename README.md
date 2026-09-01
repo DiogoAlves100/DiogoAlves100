@@ -55,9 +55,3 @@ Sou estudante de **Engenharia de Software** pela universidade UCSAL e **Técnico
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoAlves100&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiogoAlves100&theme=tokyonight&no-bg=true&column=6" alt="Trophies" />
-</div>
