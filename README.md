@@ -1,9 +1,7 @@
-<!-- BANNER ANIMADO -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,32&height=200&section=header&text=Diogo%20Alves&fontSize=50&animation=twinkling&fontAlignY=38" width="100%"/>
 </div>
 
-<!-- EFEITO DE DIGITAÇÃO -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+%7C+UCSAL;T%C3%A9cnico+em+Dev.+de+Sistemas+%7C+SENAI+CIMATEC;Dev+Backend+%26+Web+%7C+PHP+%26+JavaScript" alt="Typing SVG" />
@@ -12,7 +10,6 @@
 
 <br/>
 
-<!-- LINHA DIVISÓRIA ANIMADA -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andrem22/andrem22/main/assets/line-purple.gif" width="100%">
 </div>
@@ -46,6 +43,18 @@ Sou estudante de **Engenharia de Software** pela universidade UCSAL e **Técnico
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+<br/>
+
+### 🐍 Minhas Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiogoAlves100/DiogoAlves100/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiogoAlves100/DiogoAlves100/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiogoAlves100/DiogoAlves100/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
