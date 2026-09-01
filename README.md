@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,32&height=200&section=header&text=Diogo%20Alves&fontSize=50&animation=twinkling&fontAlignY=38" width="100%"/>
 </div>
