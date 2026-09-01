@@ -1,3 +1,4 @@
+![Banner](image_35.png)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,32&height=200&section=header&text=Diogo%20Alves&fontSize=50&animation=twinkling&fontAlignY=38" width="100%"/>
@@ -49,7 +50,6 @@ Sou estudante de **Engenharia de Software** pela universidade UCSAL e **Técnico
 <br/>
 
 
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiogoAlves100/DiogoAlves100/output/github-contribution-grid-snake-dark.svg">
@@ -61,6 +61,13 @@ Sou estudante de **Engenharia de Software** pela universidade UCSAL e **Técnico
 <br/>
 
 ### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoAlves100&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoAlves100&layout=compact&theme=tokyonight&hide=html,css"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoAlves100&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
