@@ -1,4 +1,3 @@
-![Banner](image_35.png)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,32&height=200&section=header&text=Diogo%20Alves&fontSize=50&animation=twinkling&fontAlignY=38" width="100%"/>
@@ -64,4 +63,5 @@ Sou estudante de **Engenharia de Software** pela universidade UCSAL e **Técnico
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoAlves100&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
